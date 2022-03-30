@@ -4,4 +4,5 @@
 * 2-bring_me_home - Changes directory to the user's home directory
 * 3-listfiles - Displays current directory content in long format
 * 4-listmorefiles - Displays current directory content and hidden files in long format
+* 5-listfilesdigitonly - Displays all files hidden inclusive in long format and sorts them numerically
 
