@@ -10,4 +10,5 @@
 * 8-firstdelete - deletes betty file from tmp/my_first_directory
 * 9-firstdirdeletion - deletes dir my_first_directory from tmp/
 * 10-back - takes user back to the previous directory
+* 11-lists - lists all files including ones with . character in current/parent/boot/ directories
 
