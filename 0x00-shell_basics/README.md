@@ -12,4 +12,5 @@
 * 10-back - takes user back to the previous directory
 * 11-lists - lists all files including ones with . character in current/parent/boot/ directories
 * 12-file_type - prints the file type for iamafile
+* 13-symbolic_lnk - creates a symbolic link to /bin/ls named _ls_
 
