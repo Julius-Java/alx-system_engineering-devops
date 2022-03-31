@@ -13,4 +13,5 @@
 * 11-lists - lists all files including ones with . character in current/parent/boot/ directories
 * 12-file_type - prints the file type for iamafile
 * 13-symbolic_lnk - creates a symbolic link to /bin/ls named _ls_
+* 14-copy_html - copies html file from current dir to parent of working dir, but only files that do not exist in the parent of working dir or were newwe than the versions in the parent of working dir.
 
