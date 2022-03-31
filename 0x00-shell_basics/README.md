@@ -6,4 +6,5 @@
 * 4-listmorefiles - Displays current directory content and hidden files in long format
 * 5-listfilesdigitonly - Displays all files hidden inclusive in long format and sorts them numerically
 * 6-firstdirectory - creates directory in tmp directory
+* 7-movethatfile - moves betty file from dir tmp to dir tmp/my_first_directory
 
