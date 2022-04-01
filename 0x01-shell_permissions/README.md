@@ -9,3 +9,5 @@
 7-everybody - adds x permission to the owner, the group owner, and other users of the file hello
 8-James_Bond - sets the permission of the file hello: Owner: no permisson; Group: no permission; Other users: all permissions
 9-John_Doe sets the mode of file hello to -rwx r-x -wx
+10-mirror_permissions sets the mode of file hello to the same as olleh
+
