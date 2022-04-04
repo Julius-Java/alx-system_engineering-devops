@@ -8,3 +8,5 @@
 6-third_line - displays the 3rd line of the file iacta
 7-file - creates a file with the most weird file name I've ever seen in my life
 8-cwd_state - stores the stdout of ls -la into file ls_cwd_content
+9-duplicate_last_line - duplicates the last line of the file iacta
+
