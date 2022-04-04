@@ -9,4 +9,5 @@
 7-file - creates a file with the most weird file name I've ever seen in my life
 8-cwd_state - stores the stdout of ls -la into file ls_cwd_content
 9-duplicate_last_line - duplicates the last line of the file iacta
+10-no_more_js - deletes regular files with the .js extension in the current dir
 
