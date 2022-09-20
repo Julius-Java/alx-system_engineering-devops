@@ -1,0 +1,29 @@
+Link to the image: https://imgur.com/a/218Kgg
+
+What is a server: 
+A server is basically a piece of hardware or software that provides information to other devices known as 'Client'
+
+What is the role of a domain name:
+A domain name serves as the physical name of a web address or web site, it's human readeable unlike ip addresses
+
+What is the role of the web server:
+The web server delivers static content using the HTTP protocol only
+
+What is the role of the application server:
+The application server delivers dynamic content (content that change with the user)
+
+What is the role of the database:
+The database is an organised collection of related data that can be retrieved and manipulated
+
+What is the server using to communicate with the computer of the user requesting the user:
+The communication protocol used is the TCP/IP protocol suite
+
+Problems with this infrastructure
+
+SPOF: 
+Since the infrastructure is a single server web infrastructure, it means if any layer fails or experience downtime, the whole system fails
+
+Downtime when maintenance is needed:
+System maintenance will cause a major problem considering that it is a single web server, no other server to handle incoming requests
+
+This infrastructure cannot handle too much incoming traffic because it has only a single server therefore too much incoming request will increase response time tremedously.
